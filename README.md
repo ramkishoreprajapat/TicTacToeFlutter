@@ -1,6 +1,7 @@
 # tic_tac_toe
 
-A new Flutter application.
+This is a tic tac toe game made in flutter.
+https://github.com/shekharprajapat/TicTacToeFlutter/blob/master/Screenshot_1580407480.png
 
 ## Getting Started
 
