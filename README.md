@@ -1,7 +1,7 @@
 # tic_tac_toe
 
 This is a tic tac toe game made in flutter.
-![alt text](https://github.com/shekharprajapat/TicTacToeFlutter/blob/master/Screenshot_1580407480.png)
+<img src="https://github.com/shekharprajapat/TicTacToeFlutter/blob/master/Screenshot_1580407480.png" width="48">
 
 ## Getting Started
 
